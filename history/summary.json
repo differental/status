@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1503,
     "timeDay": 1184,
     "timeWeek": 1503,
     "timeMonth": 1503,
     "timeYear": 1503,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 2
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$ENVIAME_PROD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "enviame-production",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 392,
-    "timeWeek": 506,
-    "timeMonth": 506,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 490,
+    "timeDay": 397,
+    "timeWeek": 490,
+    "timeMonth": 490,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 2
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$ENVIAME_BETA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "enviame-beta",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 387,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 460,
+    "timeDay": 388,
+    "timeWeek": 460,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 2
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$HD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hedge-doc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 432,
-    "timeWeek": 635,
-    "timeMonth": 635,
-    "timeYear": 635,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 659,
+    "timeDay": 547,
+    "timeWeek": 659,
+    "timeMonth": 659,
+    "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 2
     }
   }
 ]
