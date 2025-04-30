@@ -2,6 +2,10 @@ owner: differental
 repo: status
 
 sites:
+  - name: Portfolio
+    url: $PF_URL
+  - name: Blog
+    url: $BLOG_URL
   - name: Nextcloud
     url: $NC_URL
   - name: Enviame (Production)
