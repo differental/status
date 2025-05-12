@@ -112,17 +112,19 @@
     "url": "$HD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hedge-doc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 1176,
-    "timeWeek": 805,
-    "timeMonth": 652,
-    "timeYear": 652,
-    "dailyMinutesDown": {}
+    "time": 788,
+    "timeDay": 2411,
+    "timeWeek": 1160,
+    "timeMonth": 788,
+    "timeYear": 788,
+    "dailyMinutesDown": {
+      "2025-05-12": 0
+    }
   }
 ]
