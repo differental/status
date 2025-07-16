@@ -1,7 +1,7 @@
 url: $ENVIAME_PROD_URL
-status: down
-code: 526
-responseTime: 290
-lastUpdated: 2025-07-15T23:18:23.842Z
+status: up
+code: 200
+responseTime: 398
+lastUpdated: 2025-07-16T22:43:23.071Z
 startTime: 2025-04-27T09:54:30.264Z
 generator: Upptime <https://github.com/upptime/upptime>
