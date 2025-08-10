@@ -6,8 +6,8 @@ sites:
     url: $PF_URL
   - name: Blog
     url: $BLOG_URL
-  - name: Nextcloud
-    url: $NC_URL
+  - name: Portfolio (Mirror)
+    url: $PF_BAK_URL
   - name: Enviame (Production)
     url: $ENVIAME_PROD_URL
   - name: Enviame (Beta)
