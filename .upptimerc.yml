@@ -4,16 +4,18 @@ repo: status
 sites:
   - name: Portfolio
     url: $PF_URL
-  - name: Blog
-    url: $BLOG_URL
   - name: Portfolio (Mirror)
     url: $PF_BAK_URL
+  - name: Blog
+    url: $BLOG_URL
   - name: Enviame (Production)
     url: $ENVIAME_PROD_URL
   - name: Enviame (Beta)
     url: $ENVIAME_BETA_URL
   - name: ErgTools
     url: $ET_URL
+  - name: TimeTracker
+    url: $TT_URL
   - name: HedgeDoc
     url: $HD_URL
 
