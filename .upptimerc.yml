@@ -4,8 +4,6 @@ repo: status
 sites:
   - name: Portfolio
     url: $PF_URL
-  - name: Portfolio (Mirror)
-    url: $PF_BAK_URL
   - name: Blog
     url: $BLOG_URL
   - name: Enviame (Production)
