@@ -112,19 +112,19 @@
     "url": "$ET_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "erg-tools",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 435,
-    "timeWeek": 528,
-    "timeMonth": 784,
-    "timeYear": 563,
+    "time": 568,
+    "timeDay": 944,
+    "timeWeek": 644,
+    "timeMonth": 805,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2025-10-07": 1
+      "2025-10-07": 9
     }
   },
   {
