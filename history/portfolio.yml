@@ -1,7 +1,7 @@
 url: $PF_URL
-status: up
-code: 200
-responseTime: 377
-lastUpdated: 2025-10-20T07:16:20.230Z
+status: down
+code: 500
+responseTime: 143
+lastUpdated: 2025-10-20T08:14:10.790Z
 startTime: 2025-04-30T00:59:48.837Z
 generator: Upptime <https://github.com/upptime/upptime>
