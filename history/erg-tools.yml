@@ -1,7 +1,7 @@
 url: $ET_URL
-status: up
-code: 200
-responseTime: 467
-lastUpdated: 2025-11-01T23:16:08.058Z
+status: down
+code: 503
+responseTime: 720
+lastUpdated: 2025-11-02T00:49:11.529Z
 startTime: 2025-05-01T22:30:36.284Z
 generator: Upptime <https://github.com/upptime/upptime>
