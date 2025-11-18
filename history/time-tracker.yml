@@ -1,7 +1,7 @@
 url: $TT_URL
-status: down
-code: 500
-responseTime: 57
-lastUpdated: 2025-11-18T11:42:39.452Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2025-11-18T12:12:40.572Z
 startTime: 2025-08-22T21:30:42.434Z
 generator: Upptime <https://github.com/upptime/upptime>
