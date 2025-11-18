@@ -6,6 +6,8 @@ sites:
     url: $PF_URL
   - name: Blog
     url: $BLOG_URL
+  - name: Portainer
+    url: $PT_URL
   - name: Enviame (Production)
     url: $ENVIAME_PROD_URL
   - name: Enviame (Beta)
@@ -14,6 +16,8 @@ sites:
     url: $ET_URL
   - name: TimeTracker
     url: $TT_URL
+  - name: Git Backup
+    url: $GIT_URL
   - name: HedgeDoc
     url: $HD_URL
 
