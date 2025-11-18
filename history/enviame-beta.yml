@@ -1,7 +1,7 @@
 url: $ENVIAME_BETA_URL
-status: up
-code: 200
-responseTime: 685
-lastUpdated: 2025-11-17T23:18:02.077Z
+status: down
+code: 500
+responseTime: 204
+lastUpdated: 2025-11-18T11:30:18.721Z
 startTime: 2025-04-27T09:54:31.175Z
 generator: Upptime <https://github.com/upptime/upptime>
