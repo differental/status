@@ -1,7 +1,7 @@
 url: $HD_URL
-status: up
-code: 200
-responseTime: 530
-lastUpdated: 2025-11-18T12:12:43.256Z
+status: down
+code: 500
+responseTime: 72
+lastUpdated: 2025-11-18T12:40:58.109Z
 startTime: 2025-04-27T09:54:32.106Z
 generator: Upptime <https://github.com/upptime/upptime>
