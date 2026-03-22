@@ -1,6 +1,8 @@
 owner: differental
 repo: status
 
+delay: 5000
+
 sites:
   - name: Portfolio
     url: $PF_URL
